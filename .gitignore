@@ -4,3 +4,4 @@ venv/
 .venv/
 books/
 8_text_splitters/Resume.pdf
+my_chroma_db/
